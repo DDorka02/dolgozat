@@ -1,0 +1,39 @@
+body{
+	background-image: url("black.png");
+
+}
+
+#tarolo{
+	text-align:justify;
+	margin:auto;
+}
+
+
+.elsokep{
+	width: 100%;
+}
+
+.masodikkep{
+	float:right;
+	height:200px;	
+}
+
+.nav{
+	background-color: black;
+	padding:10px;
+}
+	
+#tartalom{
+	font-family: Arial, Verdana, sans-serif;
+	background-color: beige;
+	margin:0px;
+	text-align:justify;
+	width:90%;
+	max-width:900px;
+	margin:auto;	
+}
+
+.lablec{
+	background-color:orange;
+	margin:auto;
+}
